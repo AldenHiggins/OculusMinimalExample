@@ -1,0 +1,101 @@
+The system is: Windows - 6.2 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/Programs/VisualStudio/VC/bin/cl.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 18.00.31101 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 12.00.31101.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/SeniorDesign/OculusMinimalExample/CMakeFiles/3.1.2/CompilerIdC/CMakeCCompilerId.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: D:/Programs/VisualStudio/VC/bin/cl.exe 
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 18.00.31101 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 12.00.31101.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "D:/SeniorDesign/OculusMinimalExample/CMakeFiles/3.1.2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/SeniorDesign/OculusMinimalExample/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/NOLOGO" "cmTryCompileExec3695160570\fast"
+	D:\Programs\VisualStudio\VC\BIN\nmake.exe -f CMakeFiles\cmTryCompileExec3695160570.dir\build.make /nologo -L                  CMakeFiles\cmTryCompileExec3695160570.dir\build
+	D:\Programs\Cmake\bin\cmake.exe -E cmake_progress_report D:\SeniorDesign\OculusMinimalExample\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3695160570.dir/testCCompiler.c.obj
+	D:\Programs\VisualStudio\VC\bin\cl.exe  @C:\Users\ALDENH~1\AppData\Local\Temp\nm731D.tmp
+testCCompiler.c
+Linking C executable cmTryCompileExec3695160570.exe
+	D:\Programs\Cmake\bin\cmake.exe -E vs_link_exe D:\Programs\VisualStudio\VC\bin\link.exe /nologo @CMakeFiles\cmTryCompileExec3695160570.dir\objects1.rsp @C:\Users\ALDENH~1\AppData\Local\Temp\nm7457.tmp
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/SeniorDesign/OculusMinimalExample/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/NOLOGO" "cmTryCompileExec3774758320\fast"
+	D:\Programs\VisualStudio\VC\BIN\nmake.exe -f CMakeFiles\cmTryCompileExec3774758320.dir\build.make /nologo -L                  CMakeFiles\cmTryCompileExec3774758320.dir\build
+	D:\Programs\Cmake\bin\cmake.exe -E cmake_progress_report D:\SeniorDesign\OculusMinimalExample\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3774758320.dir/CMakeCCompilerABI.c.obj
+	D:\Programs\VisualStudio\VC\bin\cl.exe  @C:\Users\ALDENH~1\AppData\Local\Temp\nm7705.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTryCompileExec3774758320.exe
+	D:\Programs\Cmake\bin\cmake.exe -E vs_link_exe D:\Programs\VisualStudio\VC\bin\link.exe /nologo @CMakeFiles\cmTryCompileExec3774758320.dir\objects1.rsp @C:\Users\ALDENH~1\AppData\Local\Temp\nm7735.tmp
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: D:/SeniorDesign/OculusMinimalExample/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/NOLOGO" "cmTryCompileExec1044963236\fast"
+	D:\Programs\VisualStudio\VC\BIN\nmake.exe -f CMakeFiles\cmTryCompileExec1044963236.dir\build.make /nologo -L                  CMakeFiles\cmTryCompileExec1044963236.dir\build
+	D:\Programs\Cmake\bin\cmake.exe -E cmake_progress_report D:\SeniorDesign\OculusMinimalExample\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1044963236.dir/testCXXCompiler.cxx.obj
+	D:\Programs\VisualStudio\VC\bin\cl.exe  @C:\Users\ALDENH~1\AppData\Local\Temp\nm79B5.tmp
+testCXXCompiler.cxx
+Linking CXX executable cmTryCompileExec1044963236.exe
+	D:\Programs\Cmake\bin\cmake.exe -E vs_link_exe D:\Programs\VisualStudio\VC\bin\link.exe /nologo @CMakeFiles\cmTryCompileExec1044963236.dir\objects1.rsp @C:\Users\ALDENH~1\AppData\Local\Temp\nm79E5.tmp
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/SeniorDesign/OculusMinimalExample/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/NOLOGO" "cmTryCompileExec2933362165\fast"
+	D:\Programs\VisualStudio\VC\BIN\nmake.exe -f CMakeFiles\cmTryCompileExec2933362165.dir\build.make /nologo -L                  CMakeFiles\cmTryCompileExec2933362165.dir\build
+	D:\Programs\Cmake\bin\cmake.exe -E cmake_progress_report D:\SeniorDesign\OculusMinimalExample\CMakeFiles\CMakeTmp\CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2933362165.dir/CMakeCXXCompilerABI.cpp.obj
+	D:\Programs\VisualStudio\VC\bin\cl.exe  @C:\Users\ALDENH~1\AppData\Local\Temp\nm7C06.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTryCompileExec2933362165.exe
+	D:\Programs\Cmake\bin\cmake.exe -E vs_link_exe D:\Programs\VisualStudio\VC\bin\link.exe /nologo @CMakeFiles\cmTryCompileExec2933362165.dir\objects1.rsp @C:\Users\ALDENH~1\AppData\Local\Temp\nm7C36.tmp
+
+

@@ -1,0 +1,540 @@
+﻿<?xml version="1.0" encoding="Windows-1252"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_DistortionRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_FrameTimeManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_HMDRenderState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_HMDState.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_HSWDisplay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_LatencyStatistics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\GL\CAPI_GLE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\GL\CAPI_GL_DistortionRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\GL\CAPI_GL_HSWDisplay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\GL\CAPI_GL_Util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Display.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Alg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Allocator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Atomic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_CRC32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_File.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_FileFILE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Lockless.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Math.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_RefCount.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_SharedMemory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Std.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_String.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_String_FormatUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_String_PathUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_SysFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_System.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_ThreadCommandQueue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_UTF8Util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_BitStream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_NetworkPlugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_PacketizedTCPSocket.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_RPC1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_Session.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_Socket.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_CAPI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_JSON.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_Profile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_SerialFormat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_Stereo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Service\Service_NetClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Service\Service_NetSessionCommon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Tracking\Tracking_SensorStateReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_ImageWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_Interface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_LatencyTest2Reader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_Render_Stereo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_SystemInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Win32_Display.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Win32_FocusReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Win32_RenderShim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Win32_ShimFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_Win32_Socket.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_ThreadsWinAPI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\CAPI_D3D10_DistortionRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\CAPI_D3D10_HSWDisplay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\CAPI_D3D11_DistortionRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\CAPI_D3D11_HSWDisplay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D9\CAPI_D3D9_DistortionRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D9\CAPI_D3D9_HSWDisplay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D9\CAPI_D3D9_Util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_DistortionRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_FrameTimeManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_HMDRenderState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_HMDState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_HSWDisplay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_LatencyStatistics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\CAPI_D3D10_DistortionRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\CAPI_D3D10_HSWDisplay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\CAPI_D3D11_DistortionRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\CAPI_D3D11_HSWDisplay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\CAPI_D3D1X_DistortionRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\CAPI_D3D1X_HSWDisplay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\CAPI_D3D1X_Util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\DistortionChroma_ps.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\DistortionChroma_ps_refl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\DistortionChroma_vs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\DistortionChroma_vs_refl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\DistortionTimewarpChroma_vs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\DistortionTimewarpChroma_vs_refl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\DistortionTimewarp_vs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\DistortionTimewarp_vs_refl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\Distortion_ps.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\Distortion_ps_refl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\Distortion_vs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\Distortion_vs_refl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\SimpleQuad_ps.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\SimpleQuad_ps_refl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\SimpleQuad_vs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\SimpleQuad_vs_refl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\SimpleTexturedQuad_ps.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\SimpleTexturedQuad_ps_refl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\SimpleTexturedQuad_vs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\Shaders\SimpleTexturedQuad_vs_refl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D9\CAPI_D3D9_DistortionRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D9\CAPI_D3D9_HSWDisplay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\GL\CAPI_GLE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\GL\CAPI_GLE_GL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\GL\CAPI_GL_DistortionRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\GL\CAPI_GL_DistortionShaders.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\GL\CAPI_GL_HSWDisplay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\GL\CAPI_GL_Util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\Textures\healthAndSafety.tga.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Display.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Alg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Allocator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Atomic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Color.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Compiler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_ContainerAllocator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_CRC32.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Delegates.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Deque.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_File.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Hash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_KeyCodes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_List.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Lockless.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Nullptr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Observer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_RefCount.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_SharedMemory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Std.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_String.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_StringHash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_SysFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_System.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_ThreadCommandQueue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Threads.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_UTF8Util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_BitStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_MessageIDTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_NetworkPlugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_NetworkTypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_PacketizedTCPSocket.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_RPC1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_Session.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_Socket.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_CAPI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_CAPI_D3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_CAPI_GL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_CAPI_Keys.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_JSON.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_Profile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_SerialFormat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_Stereo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Sensors\OVR_DeviceConstants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Service\Service_NetClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Service\Service_NetSessionCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Tracking\Tracking_PoseState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Tracking\Tracking_SensorState.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Tracking\Tracking_SensorStateReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\GUIConsole.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_ImageWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_Interface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_LatencyTest2Reader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_LatencyTest2State.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_Render_Stereo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_SystemInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Include\OVR.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Include\OVR_Kernel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Include\OVR_Version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Win32_Display.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Win32_Dxgi_Display.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Win32_FocusReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Win32_ShimFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_Win32_Socket.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0566B821-724B-426F-BB3D-508ED9CCE088}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{24B0BD29-CDCC-4473-A700-1B36E227EBA9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

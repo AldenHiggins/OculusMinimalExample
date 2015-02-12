@@ -1,0 +1,21 @@
+﻿Build started 2/8/2015 11:48:41 PM.
+     1>Project "D:\SeniorDesign\OculusMinimalExample\build\libraries\glew\glew.vcxproj" on node 3 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule D:/SeniorDesign/OculusMinimalExample/libraries/glew/CMakeLists.txt
+         CMake does not need to re-run because D:\SeniorDesign\OculusMinimalExample\build\libraries\glew\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         D:\Programs\VisualStudio\VC\bin\CL.exe /c /ID:\SeniorDesign\OculusMinimalExample\libraries\glew\include /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D UNICODE /D _UNICODE /D GLEW_STATIC /D "CMAKE_INTDIR=\"Debug\"" /D _UNICODE /D UNICODE /Gm- /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"glew.dir\Debug\\" /Fd"glew.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt D:\SeniorDesign\OculusMinimalExample\libraries\glew\glew.c
+         Microsoft (R) C/C++ Optimizing Compiler Version 18.00.31101 for x86
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         cl /c /ID:\SeniorDesign\OculusMinimalExample\libraries\glew\include /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D UNICODE /D _UNICODE /D GLEW_STATIC /D "CMAKE_INTDIR=\"Debug\"" /D _UNICODE /D UNICODE /Gm- /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"glew.dir\Debug\\" /Fd"glew.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt D:\SeniorDesign\OculusMinimalExample\libraries\glew\glew.c
+         
+         glew.c
+       Lib:
+         D:\Programs\VisualStudio\VC\bin\Lib.exe /OUT:"D:\SeniorDesign\OculusMinimalExample\build\output\glewd.lib" /NOLOGO glew.dir\Debug\glew.obj
+         glew.vcxproj -> D:\SeniorDesign\OculusMinimalExample\build\output\glewd.lib
+     1>Done Building Project "D:\SeniorDesign\OculusMinimalExample\build\libraries\glew\glew.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.16

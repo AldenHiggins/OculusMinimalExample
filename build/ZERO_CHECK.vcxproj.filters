@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="Windows-1252"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\SeniorDesign\OculusMinimalExample\build\CMakeFiles\2ffcb1063b2664b21be269ea65782cfc\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F2C44225-F7F4-4F80-8997-71D0FC11C0BF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+﻿Build started 2/8/2015 11:48:40 PM.
+     1>Project "D:\SeniorDesign\OculusMinimalExample\build\ZERO_CHECK.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because D:/SeniorDesign/OculusMinimalExample/build/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because D:/SeniorDesign/OculusMinimalExample/build/libraries/OculusSDK/LibOVR/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because D:/SeniorDesign/OculusMinimalExample/build/libraries/glew/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because D:/SeniorDesign/OculusMinimalExample/build/libraries/glfw/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because D:/SeniorDesign/OculusMinimalExample/build/libraries/glfw/src/CMakeFiles/generate.stamp is up-to-date.
+         CMake does not need to re-run because D:/SeniorDesign/OculusMinimalExample/build/examples/cpp/CMakeFiles/generate.stamp is up-to-date.
+     1>Done Building Project "D:\SeniorDesign\OculusMinimalExample\build\ZERO_CHECK.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.31

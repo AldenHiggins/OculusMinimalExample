@@ -1,0 +1,6 @@
+D:/SeniorDesign/OculusMinimalExample/build/libraries/OculusSDK/LibOVR/CMakeFiles/OculusVR.dir
+D:/SeniorDesign/OculusMinimalExample/build/examples/cpp/CMakeFiles/Example_SelfContained.dir
+D:/SeniorDesign/OculusMinimalExample/build/libraries/OculusSDK/LibOVR/CMakeFiles/ALL_BUILD.dir
+D:/SeniorDesign/OculusMinimalExample/build/CMakeFiles/ZERO_CHECK.dir
+D:/SeniorDesign/OculusMinimalExample/build/libraries/glew/CMakeFiles/glew.dir
+D:/SeniorDesign/OculusMinimalExample/build/libraries/glfw/src/CMakeFiles/glfw.dir

@@ -1,0 +1,18 @@
+# CMake generation dependency list for this directory.
+D:/SeniorDesign/OculusMinimalExample/libraries/glfw/CMakeLists.txt
+D:/Programs/Cmake/share/cmake-3.1/Modules/FindOpenGL.cmake
+D:/Programs/Cmake/share/cmake-3.1/Modules/FindPackageHandleStandardArgs.cmake
+D:/Programs/Cmake/share/cmake-3.1/Modules/FindPackageMessage.cmake
+D:/Programs/Cmake/share/cmake-3.1/Modules/CMakeParseArguments.cmake
+D:/Programs/Cmake/share/cmake-3.1/Modules/FindThreads.cmake
+D:/Programs/Cmake/share/cmake-3.1/Modules/CheckIncludeFiles.cmake
+D:/Programs/Cmake/share/cmake-3.1/Modules/CheckLibraryExists.cmake
+D:/Programs/Cmake/share/cmake-3.1/Modules/CheckSymbolExists.cmake
+D:/Programs/Cmake/share/cmake-3.1/Modules/CMakeConfigurableFile.in
+D:/Programs/Cmake/share/cmake-3.1/Modules/FindPackageHandleStandardArgs.cmake
+D:/Programs/Cmake/share/cmake-3.1/Modules/FindPackageMessage.cmake
+D:/Programs/Cmake/share/cmake-3.1/Modules/CMakeParseArguments.cmake
+D:/SeniorDesign/OculusMinimalExample/libraries/glfw/docs/Doxyfile.in
+D:/SeniorDesign/OculusMinimalExample/libraries/glfw/src/glfw_config.h.in
+D:/SeniorDesign/OculusMinimalExample/libraries/glfw/src/glfwConfig.cmake.in
+D:/SeniorDesign/OculusMinimalExample/libraries/glfw/src/glfwConfigVersion.cmake.in

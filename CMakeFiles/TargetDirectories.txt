@@ -1,0 +1,4 @@
+D:/SeniorDesign/OculusMinimalExample/libraries/OculusSDK/LibOVR/CMakeFiles/OculusVR.dir
+D:/SeniorDesign/OculusMinimalExample/examples/cpp/CMakeFiles/Example_SelfContained.dir
+D:/SeniorDesign/OculusMinimalExample/libraries/glew/CMakeFiles/glew.dir
+D:/SeniorDesign/OculusMinimalExample/libraries/glfw/src/CMakeFiles/glfw.dir

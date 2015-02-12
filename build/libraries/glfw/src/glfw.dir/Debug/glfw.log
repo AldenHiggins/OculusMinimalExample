@@ -1,0 +1,54 @@
+﻿Build started 2/8/2015 11:48:41 PM.
+     1>Project "D:\SeniorDesign\OculusMinimalExample\build\libraries\glfw\src\glfw.vcxproj" on node 4 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule D:/SeniorDesign/OculusMinimalExample/libraries/glfw/src/CMakeLists.txt
+         CMake does not need to re-run because D:\SeniorDesign\OculusMinimalExample\build\libraries\glfw\src\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         D:\Programs\VisualStudio\VC\bin\CL.exe /c /ID:\SeniorDesign\OculusMinimalExample\libraries\glfw\src /ID:\SeniorDesign\OculusMinimalExample\build\libraries\glfw\src /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D UNICODE /D _UNICODE /D GLEW_STATIC /D _CRT_SECURE_NO_WARNINGS /D WINVER=0x0501 /D _GLFW_USE_CONFIG_H /D "CMAKE_INTDIR=\"Debug\"" /D _UNICODE /D UNICODE /Gm- /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"glfw.dir\Debug\\" /Fd"glfw.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\clipboard.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\context.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\gamma.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\init.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\input.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\joystick.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\monitor.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\time.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\window.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\win32_clipboard.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\win32_gamma.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\win32_init.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\win32_joystick.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\win32_monitor.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\win32_time.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\win32_window.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\wgl_context.c
+         Microsoft (R) C/C++ Optimizing Compiler Version 18.00.31101 for x86
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         cl /c /ID:\SeniorDesign\OculusMinimalExample\libraries\glfw\src /ID:\SeniorDesign\OculusMinimalExample\build\libraries\glfw\src /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D UNICODE /D _UNICODE /D GLEW_STATIC /D _CRT_SECURE_NO_WARNINGS /D WINVER=0x0501 /D _GLFW_USE_CONFIG_H /D "CMAKE_INTDIR=\"Debug\"" /D _UNICODE /D UNICODE /Gm- /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"glfw.dir\Debug\\" /Fd"glfw.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\clipboard.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\context.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\gamma.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\init.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\input.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\joystick.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\monitor.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\time.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\window.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\win32_clipboard.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\win32_gamma.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\win32_init.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\win32_joystick.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\win32_monitor.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\win32_time.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\win32_window.c D:\SeniorDesign\OculusMinimalExample\libraries\glfw\src\wgl_context.c
+         
+         clipboard.c
+         context.c
+         gamma.c
+         init.c
+         input.c
+         joystick.c
+         monitor.c
+         time.c
+         window.c
+         win32_clipboard.c
+         win32_gamma.c
+         win32_init.c
+         win32_joystick.c
+         win32_monitor.c
+         win32_time.c
+         win32_window.c
+         wgl_context.c
+         Generating Code...
+       Lib:
+         D:\Programs\VisualStudio\VC\bin\Lib.exe /OUT:"D:\SeniorDesign\OculusMinimalExample\build\output\glfw3d.lib" /NOLOGO glfw.dir\Debug\clipboard.obj
+         glfw.dir\Debug\context.obj
+         glfw.dir\Debug\gamma.obj
+         glfw.dir\Debug\init.obj
+         glfw.dir\Debug\input.obj
+         glfw.dir\Debug\joystick.obj
+         glfw.dir\Debug\monitor.obj
+         glfw.dir\Debug\time.obj
+         glfw.dir\Debug\window.obj
+         glfw.dir\Debug\win32_clipboard.obj
+         glfw.dir\Debug\win32_gamma.obj
+         glfw.dir\Debug\win32_init.obj
+         glfw.dir\Debug\win32_joystick.obj
+         glfw.dir\Debug\win32_monitor.obj
+         glfw.dir\Debug\win32_time.obj
+         glfw.dir\Debug\win32_window.obj
+         glfw.dir\Debug\wgl_context.obj
+         glfw.vcxproj -> D:\SeniorDesign\OculusMinimalExample\build\output\glfw3d.lib
+     1>Done Building Project "D:\SeniorDesign\OculusMinimalExample\build\libraries\glfw\src\glfw.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.91

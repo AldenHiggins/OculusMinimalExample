@@ -1,0 +1,153 @@
+﻿Build started 2/8/2015 11:48:40 PM.
+     1>Project "D:\SeniorDesign\OculusMinimalExample\build\libraries\OculusSDK\LibOVR\OculusVR.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule D:/SeniorDesign/OculusMinimalExample/libraries/OculusSDK/LibOVR/CMakeLists.txt
+         CMake does not need to re-run because D:\SeniorDesign\OculusMinimalExample\build\libraries\OculusSDK\LibOVR\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         D:\Programs\VisualStudio\VC\bin\CL.exe /c /ID:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Include /ID:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src /ID:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel /ID:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util /ID:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\..\3rdParty\glext /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D OVR_BUILD_DEBUG /D UNICODE /D _UNICODE /D "CMAKE_INTDIR=\"Debug\"" /D OculusVR_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"OculusVR.dir\Debug\\" /Fd"OculusVR.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_DistortionRenderer.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_FrameTimeManager.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_HMDRenderState.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_HMDState.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_HSWDisplay.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_LatencyStatistics.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\GL\CAPI_GLE.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\GL\CAPI_GL_DistortionRenderer.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\GL\CAPI_GL_HSWDisplay.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\GL\CAPI_GL_Util.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Display.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Alg.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Allocator.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Atomic.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_CRC32.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_File.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_FileFILE.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Lockless.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Log.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Math.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_RefCount.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_SharedMemory.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Std.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_String.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_String_FormatUtil.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_String_PathUtil.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_SysFile.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_System.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_ThreadCommandQueue.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Timer.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_UTF8Util.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_BitStream.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_NetworkPlugin.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_PacketizedTCPSocket.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_RPC1.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_Session.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_Socket.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_CAPI.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_JSON.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_Profile.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_SerialFormat.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_Stereo.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Service\Service_NetClient.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Service\Service_NetSessionCommon.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Tracking\Tracking_SensorStateReader.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_ImageWindow.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_Interface.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_LatencyTest2Reader.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_Render_Stereo.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_SystemInfo.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Win32_Display.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Win32_FocusReader.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Win32_RenderShim.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Win32_ShimFunctions.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_Win32_Socket.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_ThreadsWinAPI.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\CAPI_D3D10_DistortionRenderer.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\CAPI_D3D10_HSWDisplay.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\CAPI_D3D11_DistortionRenderer.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\CAPI_D3D11_HSWDisplay.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D9\CAPI_D3D9_DistortionRenderer.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D9\CAPI_D3D9_HSWDisplay.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D9\CAPI_D3D9_Util.cpp
+         Microsoft (R) C/C++ Optimizing Compiler Version 18.00.31101 for x86
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         cl /c /ID:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Include /ID:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src /ID:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel /ID:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util /ID:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\..\3rdParty\glext /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D OVR_BUILD_DEBUG /D UNICODE /D _UNICODE /D "CMAKE_INTDIR=\"Debug\"" /D OculusVR_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"OculusVR.dir\Debug\\" /Fd"OculusVR.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_DistortionRenderer.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_FrameTimeManager.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_HMDRenderState.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_HMDState.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_HSWDisplay.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\CAPI_LatencyStatistics.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\GL\CAPI_GLE.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\GL\CAPI_GL_DistortionRenderer.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\GL\CAPI_GL_HSWDisplay.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\GL\CAPI_GL_Util.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Display.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Alg.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Allocator.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Atomic.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_CRC32.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_File.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_FileFILE.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Lockless.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Log.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Math.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_RefCount.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_SharedMemory.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Std.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_String.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_String_FormatUtil.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_String_PathUtil.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_SysFile.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_System.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_ThreadCommandQueue.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_Timer.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_UTF8Util.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_BitStream.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_NetworkPlugin.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_PacketizedTCPSocket.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_RPC1.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_Session.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_Socket.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_CAPI.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_JSON.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_Profile.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_SerialFormat.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\OVR_Stereo.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Service\Service_NetClient.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Service\Service_NetSessionCommon.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Tracking\Tracking_SensorStateReader.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_ImageWindow.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_Interface.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_LatencyTest2Reader.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_Render_Stereo.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Util\Util_SystemInfo.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Win32_Display.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Win32_FocusReader.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Win32_RenderShim.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Displays\OVR_Win32_ShimFunctions.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Net\OVR_Win32_Socket.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\Kernel\OVR_ThreadsWinAPI.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\CAPI_D3D10_DistortionRenderer.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\CAPI_D3D10_HSWDisplay.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\CAPI_D3D11_DistortionRenderer.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D1X\CAPI_D3D11_HSWDisplay.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D9\CAPI_D3D9_DistortionRenderer.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D9\CAPI_D3D9_HSWDisplay.cpp D:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src\CAPI\D3D9\CAPI_D3D9_Util.cpp
+         
+         CAPI_DistortionRenderer.cpp
+         CAPI_FrameTimeManager.cpp
+         CAPI_HMDRenderState.cpp
+         CAPI_HMDState.cpp
+         CAPI_HSWDisplay.cpp
+         CAPI_LatencyStatistics.cpp
+         CAPI_GLE.cpp
+         CAPI_GL_DistortionRenderer.cpp
+         CAPI_GL_HSWDisplay.cpp
+         CAPI_GL_Util.cpp
+         OVR_Display.cpp
+         OVR_Alg.cpp
+         OVR_Allocator.cpp
+         OVR_Atomic.cpp
+         OVR_CRC32.cpp
+         OVR_File.cpp
+         OVR_FileFILE.cpp
+         OVR_Lockless.cpp
+         OVR_Log.cpp
+         OVR_Math.cpp
+         Generating Code...
+         Compiling...
+         OVR_RefCount.cpp
+         OVR_SharedMemory.cpp
+         OVR_Std.cpp
+         OVR_String.cpp
+         OVR_String_FormatUtil.cpp
+         OVR_String_PathUtil.cpp
+         OVR_SysFile.cpp
+         OVR_System.cpp
+         OVR_ThreadCommandQueue.cpp
+         OVR_Timer.cpp
+         OVR_UTF8Util.cpp
+         OVR_BitStream.cpp
+         OVR_NetworkPlugin.cpp
+         OVR_PacketizedTCPSocket.cpp
+         OVR_RPC1.cpp
+         OVR_Session.cpp
+         OVR_Socket.cpp
+         OVR_CAPI.cpp
+         OVR_JSON.cpp
+         OVR_Profile.cpp
+         Generating Code...
+         Compiling...
+         OVR_SerialFormat.cpp
+         OVR_Stereo.cpp
+         Service_NetClient.cpp
+         Service_NetSessionCommon.cpp
+         Tracking_SensorStateReader.cpp
+         Util_ImageWindow.cpp
+         Util_Interface.cpp
+         Util_LatencyTest2Reader.cpp
+         Util_Render_Stereo.cpp
+         Util_SystemInfo.cpp
+         OVR_Win32_Display.cpp
+         OVR_Win32_FocusReader.cpp
+         OVR_Win32_RenderShim.cpp
+         OVR_Win32_ShimFunctions.cpp
+         OVR_Win32_Socket.cpp
+         OVR_ThreadsWinAPI.cpp
+         CAPI_D3D10_DistortionRenderer.cpp
+         CAPI_D3D10_HSWDisplay.cpp
+         CAPI_D3D11_DistortionRenderer.cpp
+         CAPI_D3D11_HSWDisplay.cpp
+         Generating Code...
+         Compiling...
+         CAPI_D3D9_DistortionRenderer.cpp
+         CAPI_D3D9_HSWDisplay.cpp
+         CAPI_D3D9_Util.cpp
+         Generating Code...
+       Link:
+         D:\Programs\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\SeniorDesign\OculusMinimalExample\build\output\OculusVRd.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib setupapi.lib winmm.lib ws2_32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/SeniorDesign/OculusMinimalExample/build/output/OculusVRd.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/SeniorDesign/OculusMinimalExample/build/output/OculusVRd.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug /DLL OculusVR.dir\Debug\CAPI_DistortionRenderer.obj
+         OculusVR.dir\Debug\CAPI_FrameTimeManager.obj
+         OculusVR.dir\Debug\CAPI_HMDRenderState.obj
+         OculusVR.dir\Debug\CAPI_HMDState.obj
+         OculusVR.dir\Debug\CAPI_HSWDisplay.obj
+         OculusVR.dir\Debug\CAPI_LatencyStatistics.obj
+         OculusVR.dir\Debug\CAPI_GLE.obj
+         OculusVR.dir\Debug\CAPI_GL_DistortionRenderer.obj
+         OculusVR.dir\Debug\CAPI_GL_HSWDisplay.obj
+         OculusVR.dir\Debug\CAPI_GL_Util.obj
+         OculusVR.dir\Debug\OVR_Display.obj
+         OculusVR.dir\Debug\OVR_Alg.obj
+         OculusVR.dir\Debug\OVR_Allocator.obj
+         OculusVR.dir\Debug\OVR_Atomic.obj
+         OculusVR.dir\Debug\OVR_CRC32.obj
+         OculusVR.dir\Debug\OVR_File.obj
+         OculusVR.dir\Debug\OVR_FileFILE.obj
+         OculusVR.dir\Debug\OVR_Lockless.obj
+         OculusVR.dir\Debug\OVR_Log.obj
+         OculusVR.dir\Debug\OVR_Math.obj
+         OculusVR.dir\Debug\OVR_RefCount.obj
+         OculusVR.dir\Debug\OVR_SharedMemory.obj
+         OculusVR.dir\Debug\OVR_Std.obj
+         OculusVR.dir\Debug\OVR_String.obj
+         OculusVR.dir\Debug\OVR_String_FormatUtil.obj
+         OculusVR.dir\Debug\OVR_String_PathUtil.obj
+         OculusVR.dir\Debug\OVR_SysFile.obj
+         OculusVR.dir\Debug\OVR_System.obj
+         OculusVR.dir\Debug\OVR_ThreadCommandQueue.obj
+         OculusVR.dir\Debug\OVR_Timer.obj
+         OculusVR.dir\Debug\OVR_UTF8Util.obj
+         OculusVR.dir\Debug\OVR_BitStream.obj
+         OculusVR.dir\Debug\OVR_NetworkPlugin.obj
+         OculusVR.dir\Debug\OVR_PacketizedTCPSocket.obj
+         OculusVR.dir\Debug\OVR_RPC1.obj
+         OculusVR.dir\Debug\OVR_Session.obj
+         OculusVR.dir\Debug\OVR_Socket.obj
+         OculusVR.dir\Debug\OVR_CAPI.obj
+         OculusVR.dir\Debug\OVR_JSON.obj
+         OculusVR.dir\Debug\OVR_Profile.obj
+         OculusVR.dir\Debug\OVR_SerialFormat.obj
+         OculusVR.dir\Debug\OVR_Stereo.obj
+         OculusVR.dir\Debug\Service_NetClient.obj
+         OculusVR.dir\Debug\Service_NetSessionCommon.obj
+         OculusVR.dir\Debug\Tracking_SensorStateReader.obj
+         OculusVR.dir\Debug\Util_ImageWindow.obj
+         OculusVR.dir\Debug\Util_Interface.obj
+         OculusVR.dir\Debug\Util_LatencyTest2Reader.obj
+         OculusVR.dir\Debug\Util_Render_Stereo.obj
+         OculusVR.dir\Debug\Util_SystemInfo.obj
+         OculusVR.dir\Debug\OVR_Win32_Display.obj
+         OculusVR.dir\Debug\OVR_Win32_FocusReader.obj
+         OculusVR.dir\Debug\OVR_Win32_RenderShim.obj
+         OculusVR.dir\Debug\OVR_Win32_ShimFunctions.obj
+         OculusVR.dir\Debug\OVR_Win32_Socket.obj
+         OculusVR.dir\Debug\OVR_ThreadsWinAPI.obj
+         OculusVR.dir\Debug\CAPI_D3D10_DistortionRenderer.obj
+         OculusVR.dir\Debug\CAPI_D3D10_HSWDisplay.obj
+         OculusVR.dir\Debug\CAPI_D3D11_DistortionRenderer.obj
+         OculusVR.dir\Debug\CAPI_D3D11_HSWDisplay.obj
+         OculusVR.dir\Debug\CAPI_D3D9_DistortionRenderer.obj
+         OculusVR.dir\Debug\CAPI_D3D9_HSWDisplay.obj
+         OculusVR.dir\Debug\CAPI_D3D9_Util.obj
+            Creating library D:/SeniorDesign/OculusMinimalExample/build/output/OculusVRd.lib and object D:/SeniorDesign/OculusMinimalExample/build/output/OculusVRd.exp
+         OculusVR.vcxproj -> D:\SeniorDesign\OculusMinimalExample\build\output\OculusVRd.dll
+     1>Done Building Project "D:\SeniorDesign\OculusMinimalExample\build\libraries\OculusSDK\LibOVR\OculusVR.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:18.46

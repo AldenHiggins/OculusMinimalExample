@@ -1,0 +1,48 @@
+﻿Build started 2/8/2015 11:48:59 PM.
+     1>Project "D:\SeniorDesign\OculusMinimalExample\build\examples\cpp\Example_SelfContained.vcxproj" on node 3 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule D:/SeniorDesign/OculusMinimalExample/examples/cpp/CMakeLists.txt
+         CMake does not need to re-run because D:\SeniorDesign\OculusMinimalExample\build\examples\cpp\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         D:\Programs\VisualStudio\VC\bin\CL.exe /c /ID:\SeniorDesign\OculusMinimalExample\libraries\glew\include /ID:\SeniorDesign\OculusMinimalExample\libraries\glfw\include /ID:\SeniorDesign\OculusMinimalExample\libraries\glm /ID:\SeniorDesign\OculusMinimalExample\libraries\oglplus\include /ID:\SeniorDesign\OculusMinimalExample\libraries\oglplus\implement /ID:\SeniorDesign\OculusMinimalExample\build\libraries\oglplus\include /ID:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D UNICODE /D _UNICODE /D GLEW_STATIC /D _USE_MATH_DEFINES /D "CMAKE_INTDIR=\"Debug\"" /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Example_SelfContained.dir\Debug\\" /Fd"Example_SelfContained.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt D:\SeniorDesign\OculusMinimalExample\examples\cpp\Example_SelfContained.cpp
+         Microsoft (R) C/C++ Optimizing Compiler Version 18.00.31101 for x86
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         cl /c /ID:\SeniorDesign\OculusMinimalExample\libraries\glew\include /ID:\SeniorDesign\OculusMinimalExample\libraries\glfw\include /ID:\SeniorDesign\OculusMinimalExample\libraries\glm /ID:\SeniorDesign\OculusMinimalExample\libraries\oglplus\include /ID:\SeniorDesign\OculusMinimalExample\libraries\oglplus\implement /ID:\SeniorDesign\OculusMinimalExample\build\libraries\oglplus\include /ID:\SeniorDesign\OculusMinimalExample\libraries\OculusSDK\LibOVR\Src /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D UNICODE /D _UNICODE /D GLEW_STATIC /D _USE_MATH_DEFINES /D "CMAKE_INTDIR=\"Debug\"" /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Example_SelfContained.dir\Debug\\" /Fd"Example_SelfContained.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt D:\SeniorDesign\OculusMinimalExample\examples\cpp\Example_SelfContained.cpp
+         
+         Example_SelfContained.cpp
+     1>D:\SeniorDesign\OculusMinimalExample\examples\cpp\Example_SelfContained.cpp(967): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+     1>D:\SeniorDesign\OculusMinimalExample\libraries\oglplus\include\oglplus/shapes/wrapper.hpp(77): warning C4101: 'vert_attr_info' : unreferenced local variable
+                 D:\SeniorDesign\OculusMinimalExample\libraries\oglplus\include\oglplus/shapes/wrapper.hpp(132) : see reference to function template instantiation 'void oglplus::shapes::ShapeWrapperBase::_init<ShapeBuilder,oglplus::shapes::Cube::IndexArray,Iterator>(const ShapeBuilder &,const ShapeIndices &,Iterator,Iterator)' being compiled
+                 with
+                 [
+                     ShapeBuilder=oglplus::shapes::Cube
+         ,            Iterator=const char *const *
+         ,            ShapeIndices=oglplus::shapes::Cube::IndexArray
+                 ]
+                 D:\SeniorDesign\OculusMinimalExample\libraries\oglplus\include\oglplus/shapes/wrapper.hpp(236) : see reference to function template instantiation 'oglplus::shapes::ShapeWrapperBase::ShapeWrapperBase<const _Elem*,ShapeBuilder,Selector>(Iterator,Iterator,const ShapeBuilder &,Selector)' being compiled
+                 with
+                 [
+                     _Elem=const GLchar *
+         ,            ShapeBuilder=oglplus::shapes::Cube
+         ,            Selector=oglplus::shapes::DrawMode::Default
+         ,            Iterator=const char *const *
+                 ]
+                 D:\SeniorDesign\OculusMinimalExample\examples\cpp\Example_SelfContained.cpp(933) : see reference to function template instantiation 'oglplus::shapes::ShapeWrapperTpl<oglplus::shapes::DrawMode::Default>::ShapeWrapperTpl<oglplus::shapes::Cube>(const std::initializer_list<const GLchar *> &,const ShapeBuilder &)' being compiled
+                 with
+                 [
+                     ShapeBuilder=oglplus::shapes::Cube
+                 ]
+                 D:\SeniorDesign\OculusMinimalExample\examples\cpp\Example_SelfContained.cpp(933) : see reference to function template instantiation 'oglplus::shapes::ShapeWrapperTpl<oglplus::shapes::DrawMode::Default>::ShapeWrapperTpl<oglplus::shapes::Cube>(const std::initializer_list<const GLchar *> &,const ShapeBuilder &)' being compiled
+                 with
+                 [
+                     ShapeBuilder=oglplus::shapes::Cube
+                 ]
+       Link:
+         D:\Programs\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\SeniorDesign\OculusMinimalExample\build\output\Example_SelfContained.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib ..\..\output\OculusVRd.lib ..\..\output\glewd.lib ..\..\output\glfw3d.lib opengl32.lib d3d11.lib dxgi.lib setupapi.lib winmm.lib ws2_32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/SeniorDesign/OculusMinimalExample/build/output/Example_SelfContained.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/SeniorDesign/OculusMinimalExample/build/output/Example_SelfContained.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug Example_SelfContained.dir\Debug\Example_SelfContained.obj
+         Example_SelfContained.vcxproj -> D:\SeniorDesign\OculusMinimalExample\build\output\Example_SelfContained.exe
+     1>Done Building Project "D:\SeniorDesign\OculusMinimalExample\build\examples\cpp\Example_SelfContained.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.20
